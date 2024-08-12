@@ -27,3 +27,23 @@ _Poor motivations and goals make a poor character_
 **Death** had to take him sleeping, for if **Roosevelt** had been awake, there would have been a fight
 
 **You're** Breathtaking
+
+## My Favorite Websites
+[Youtube](https://www.youtube.com/)
+
+[Tf2 Marketplace](https://marketplace.tf/)
+
+[GitHub.com](https://github.com/)
+
+## People of Interest
+[Abraham Lincoln][1]
+
+[John F. Kennedy][2]
+
+[Theodore "Teddy" Roosevelt][3]
+
+[1]:https://www.britannica.com/biography/Abraham-Lincoln
+
+[2]:https://www.britannica.com/biography/John-F-Kennedy
+
+[3]:https://www.britannica.com/biography/Theodore-Roosevelt
