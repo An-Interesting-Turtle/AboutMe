@@ -12,6 +12,6 @@ My hobbies include the flollowing:
 - Leaning about history
 My Nightime routine includes
  
-1 Shower
-2 Brushing teeth
-3 Watch movies or videos
+1. Shower
+2. Brushing teeth
+3. Watch movies or videos
