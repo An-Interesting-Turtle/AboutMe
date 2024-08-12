@@ -16,3 +16,7 @@ My Nightime routine includes
 1. Shower
 2. Brushing teeth
 3. Watch movies or videos
+
+## My Philosophy
+*Doing one wrong deed can ruin a legacy*
+_Poor motivations and goals make a poor character_
