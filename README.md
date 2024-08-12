@@ -18,5 +18,10 @@ My Nightime routine includes
 3. Watch movies or videos
 
 ## My Philosophy
-*Doing one wrong deed can ruin a legacy*
+*Doing one wrong deed can ruin a legacy of good*
+
 _Poor motivations and goals make a poor character_
+
+## Favorite Quotes
+
+*Death* had to take him sleeping, for if *Roosevelt* had been awake, there would have been a fight
