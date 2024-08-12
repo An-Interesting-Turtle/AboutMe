@@ -24,4 +24,6 @@ _Poor motivations and goals make a poor character_
 
 ## Favorite Quotes
 
-*Death* had to take him sleeping, for if *Roosevelt* had been awake, there would have been a fight
+**Death** had to take him sleeping, for if **Roosevelt** had been awake, there would have been a fight
+
+**You're** Breathtaking
