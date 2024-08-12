@@ -5,3 +5,8 @@ Hello, My name is Kenneth Crabtree. I am a student from Evansville Central High 
 
 Hobbies
 -
+My hobbies include the flollowing:
+- Gaming
+- Streaming
+- Working
+- Leaning about history
