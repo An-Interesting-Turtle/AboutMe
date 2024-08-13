@@ -1,8 +1,12 @@
 # AboutMe
 ## CS Terms
--
+
 
 | Terms | Definitions | What it means to me |
+|:-|----|---|
+| Work Ethic | the principle that hard work is intrinsically virtuous or worthy of reward. | Following along with work and completing work along a proper timeline |
+| Security | protection. especially : measures taken to guard against spying or destructive actions | Protection or defense over actions that can cause leaks of information or damage to a product, person, or building |
+| Imagination | the faculty or action of forming new ideas, or images or concepts of external objects not present to the senses. | Ability to use old concepts and ideas to form and create new ideas, things, or concepts |
 ---
 
 ## Summary
