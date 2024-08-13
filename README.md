@@ -1,5 +1,10 @@
 # AboutMe
+## CS Terms
+-
+
+| Terms | Definitions | What it means to me |
 ---
+
 ## Summary
 Hello, My name is Kenneth Crabtree. I am a student from Evansville Central High School. I usually keep to myself but if talked to, I will happily engage in conversation, unless it makes me uncomfortable. 
 
@@ -48,5 +53,3 @@ _Poor motivations and goals make a poor character_
 [2]:https://www.britannica.com/biography/John-F-Kennedy
 
 [3]:https://www.britannica.com/biography/Theodore-Roosevelt
-
-## Favorite Terms 
