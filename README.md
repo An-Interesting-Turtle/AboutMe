@@ -37,11 +37,12 @@ _Poor motivations and goals make a poor character_
 
 ## People of Interest
 [Abraham Lincoln][1]<br>
+<img src="https://github.com/An-Interesting-Turtle/AboutMe/blob/b733b6bcb04483f85358df86aada4ace8aa12bba/Lincoln.jpeg" height=200px>
 
 [John F. Kennedy][2]<br>
 
 [Theodore "Teddy" Roosevelt][3]<br>
-<img src="https://github.com/An-Interesting-Turtle/AboutMe/blob/6e9ef5ca41b77e703286372513cd555508045d3b/Theodore%20Teddy%20Roosevelt.jpeg" height=250px>
+<img src="https://github.com/An-Interesting-Turtle/AboutMe/blob/6e9ef5ca41b77e703286372513cd555508045d3b/Theodore%20Teddy%20Roosevelt.jpeg" height=200px>
 
 [1]:https://www.britannica.com/biography/Abraham-Lincoln
 
