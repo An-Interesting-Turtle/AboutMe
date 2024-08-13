@@ -48,3 +48,5 @@ _Poor motivations and goals make a poor character_
 [2]:https://www.britannica.com/biography/John-F-Kennedy
 
 [3]:https://www.britannica.com/biography/Theodore-Roosevelt
+
+## Favorite Terms 
