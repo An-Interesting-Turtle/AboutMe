@@ -40,6 +40,7 @@ _Poor motivations and goals make a poor character_
 <img src="https://github.com/An-Interesting-Turtle/AboutMe/blob/b733b6bcb04483f85358df86aada4ace8aa12bba/Lincoln.jpeg" height=200px>
 
 [John F. Kennedy][2]<br>
+<img src="https://github.com/An-Interesting-Turtle/AboutMe/blob/8c1954cf619d8db6674f757b90a5203713c675cb/JFK.jpeg" height=200px>
 
 [Theodore "Teddy" Roosevelt][3]<br>
 <img src="https://github.com/An-Interesting-Turtle/AboutMe/blob/6e9ef5ca41b77e703286372513cd555508045d3b/Theodore%20Teddy%20Roosevelt.jpeg" height=200px>
