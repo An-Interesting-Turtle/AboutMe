@@ -29,7 +29,7 @@ My Nightime routine includes
 ## My Philosophy
 *Doing one wrong deed can ruin a legacy of good*
 
-_Poor motivations and goals make a poor character_
+_Poor motivations and goals make a poor character_ 
 
 ## Favorite Quotes
 
